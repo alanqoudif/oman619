@@ -1,7 +1,5 @@
 - 👋 Hi, I'm @oman619
-- 👀 I am interested in the world of programming and cybersecurity
-- 🌱 I'm currently learning Ethical Hacking - Web Development
-- 💞️ I'm looking forward to cooperating with Apple - Google
+
 
 - 👋 مرحبًا ، أنا @ oman619
 - 👀 أنا مهتم بعالم البرمجة والأمن السيبراني
